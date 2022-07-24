@@ -23,6 +23,6 @@ WHERE l.customers_number = (
 
 UNION ALL
 
-(SELECT 'Average', ROUND(AVG(l.customers_number), 0)
-FROM lawyers AS l)
+SELECT 'Average', ROUND(AVG(l.customers_number), 0)
+FROM lawyers AS l
 
