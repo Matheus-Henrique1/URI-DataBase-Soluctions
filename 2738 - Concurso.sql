@@ -9,8 +9,8 @@ Lembre-se de mostrar a lista ordenada pela pontuação do candidato
 A pontuação do candidato é o resultado da média ponderada descrita abaixo:
 
 AVG = (math*2)+(specific*3)+(project_plan*5)
-	   ------------------------------------
-						10
+       ------------------------------------
+			10
                          
 */
 
